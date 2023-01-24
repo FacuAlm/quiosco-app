@@ -1,16 +1,16 @@
-##Area de Menu
+## Area de Menu
 ![imagen](https://user-images.githubusercontent.com/63023270/214270539-90afa336-89d8-44c4-a30d-79b3a907af7d.png)
 
 
-##Resumen de Pedido
+## Resumen de Pedido
 ![imagen](https://user-images.githubusercontent.com/63023270/214270915-85b10548-3164-4134-9dd8-6689a42e13f7.png)
 
 
-#Datos y Total
+## Datos y Total
 ![imagen](https://user-images.githubusercontent.com/63023270/214271010-5795bfd0-a718-4840-9ff2-c838c6c7e060.png)
 
 
-##Panel de Administracion
+## Panel de Administracion
 ![imagen](https://user-images.githubusercontent.com/63023270/214271168-6bb9bf1e-98fb-412c-946f-a0a809920ff1.png)
 
 
